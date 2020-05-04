@@ -5,7 +5,7 @@ HEADER = 64
 PORT = 5050
 FORMAT = 'utf-8'
 DISCONNET_MSG = "!DISCONNECT"
-SERVER = "192.168.1"  # Your local IP address
+SERVER = "192.168"  # Your local IP address
 ADDR = (SERVER, PORT)
 
 

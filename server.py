@@ -4,7 +4,7 @@ import threading
 
 HEADER = 64
 PORT = 5050
-SERVER = "192.168.1.18"
+SERVER = "192.168" # Your local IP address
 ADDR = (SERVER, PORT)
 FORMAT = 'utf-8'
 DISCONNET_MSG = "!DISCONNECT"
